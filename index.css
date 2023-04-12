@@ -164,7 +164,7 @@ ul.a{
     height: 48px;
 }
 .backimg{
-    background-image: url('Mikasa/background.png');
+    background-image: url('background.png');
 }
 .mainContent{
     margin: auto;
@@ -253,7 +253,7 @@ figure img{
     align-items: center;
 }
 .left{
-    background-image: url('Mikasa/promo_glass.png');
+    background-image: url('promo_glass.png');
     background-repeat: no-repeat;
     height: 187px;
     background-size: 370px;
@@ -269,7 +269,7 @@ figure img{
     margin-left: 220px
 }
 .middle{
-    background-image: url('Mikasa/promo_plates.png');
+    background-image: url('promo_plates.png');
     background-repeat: no-repeat;
     background-position: bottom;
     height: 187px;
@@ -286,7 +286,7 @@ figure img{
     margin-left: 210px
 }
 .right{
-    background-image: url('Mikasa/promo_album.png');
+    background-image: url('promo_album.png');
     background-repeat: no-repeat;
     background-position: right;
     background-size: 272px;
